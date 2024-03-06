@@ -3,15 +3,15 @@
 🚀 **About Me:**
 - 🎓 Studying software engineering with a focus on JavaScript at a bootcamp.
 - 💡 Keen on turning ideas into interactive and user-friendly web applications.
-- 🌐 HTML5, CSS3, and JavaScript are my playground, and I'm hungry for more!
+- 🌐 HTML5, CSS3, and JavaScript are about to be my playground.
 
 🛠️ **Tech Stack:**
 - Frontend: HTML5, CSS3, JavaScript (React.js enthusiast!)
-- Backend: Exploring the world of Node.js
+- Backend: Will be exploring the world of Node.js
 - Database: Eager to dive into SQL and NoSQL databases
 
 🌱 **Current Learning Goals:**
-- Mastering React.js and Node.js
+- Mastering JavaScript, React.js and Node.js
 - Contributing to open source projects to enhance practical skills
 - Building a robust foundation for full-stack development
 
