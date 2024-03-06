@@ -21,7 +21,7 @@
 - ⚖️ Balancing work and life
 
 🔗 **Connect with Me:**
-- Let's connect and learn together! Feel free to reach out on https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit(#) or https://twitter.com/bryansetuke(#).
+- Let's connect and learn together! Feel free to reach out on https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit or https://twitter.com/bryansetuke.
 
 🌟 **Fun Fact:**
 - When not coding, you'll find me exploring the latest tech trends, reading tech blogs, or enjoying a cup of coffee with a good book.
