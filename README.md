@@ -1,11 +1,11 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate Software Engineering student. Welcome to my GitHub profile! 😊
+I'm Bryan Setuke, a passionate Software Engineering student. Welcome to my GitHub profile! 😊
 
 ## 🚀 About Me
 
-- 🎓 Studying Software Engineering at [Your University]
-- 💻 Currently working on [Current Project or Assignment]
+- 🎓 Studying Software Engineering at CodeSpace Academy
+- 💻 Currently working on 
 - 🌱 Learning and exploring new technologies
 
 ## 🛠️ Skills
